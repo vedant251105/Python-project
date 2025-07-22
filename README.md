@@ -1,2 +1,2 @@
 # Python-project
-These are the project task which I have completed in my intership
+These is simple Calculator which is made using python 
